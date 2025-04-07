@@ -1,5 +1,5 @@
 /**
-//Todo lo verde son comentarios
+//Todo lo verde son comentarios para Ingenias
  * @param {number[]} nums - Array de números enteros
  * @param {number} target - Número objetivo que se desea obtener al sumar dos de los números del array
  * @return {number[]} - Índices de los dos números cuya suma da como resultado el target
