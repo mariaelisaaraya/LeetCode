@@ -1,4 +1,4 @@
-# (LeetCode)[https://leetcode.com]
+# [LeetCode](https://leetcode.com)
 Just for Ingenias Backend
 
 ## [0001-two-sum](https://github.com/mariaelisaaraya/LeetCode/tree/main/0009-palindrome-number)
