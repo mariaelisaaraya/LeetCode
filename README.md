@@ -1,7 +1,7 @@
 # LeetCode
 Just for Ingenias Backend
 
-## [Two Sum](https://github.com/mariaelisaaraya/LeetCode/tree/main/0009-palindrome-number)
+## [0001-two-sum](https://github.com/mariaelisaaraya/LeetCode/tree/main/0009-palindrome-number)
 
 - Usamos un objeto (numMap) para almacenar los números como claves y sus índices como valores.
 - Iteramos sobre el array y calculamos el complemento (target - num).
